@@ -21,7 +21,6 @@ dependencies:
   gql_http_link: ^0.4.5
   gql_link: ^0.5.1
   gql: ^0.14.0
-  http: ^0.13.5
   json_annotation: ^4.8.0
   path: ^1.8.3
   recase: ^4.1.0
